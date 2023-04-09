@@ -63,7 +63,7 @@ T_1 = 11 * Y_TO_S  # Část periody sekundární složky [s]
 # $$
 
 # %%
-h = sqrt(alpha**2 - beta**2)  # Absolutní excentricita dráhy [°]
+h = sqrt(alpha**2 - beta**2)  # Absolutní excentricita dráhy [rad]
 h
 
 # %% [markdown]
@@ -74,7 +74,7 @@ h
 # $$
 
 # %%
-S_1 = alpha * beta * (acos(h / alpha) - (h  / alpha**2) * sqrt(alpha**2 - h**2))  # Obsah plochy opsané průvodičem sekundární složky za 11 let [°^2]
+S_1 = alpha * beta * (acos(h / alpha) - (h  / alpha**2) * sqrt(alpha**2 - h**2))  # Obsah plochy opsané průvodičem sekundární složky za 11 let [rad^2]
 S_1
 
 # %% [markdown]
@@ -85,7 +85,7 @@ S_1
 # $$
 
 # %%
-S = pi * alpha * beta  # Plocha oběžné dráhy sekundární složky [°^2]
+S = pi * alpha * beta  # Plocha oběžné dráhy sekundární složky [rad^2]
 S
 
 # %% [markdown]
