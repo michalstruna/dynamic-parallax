@@ -12,7 +12,7 @@
 # | # | Veličina | Primární složka | Sekundární složka |
 # | --- | --- | --- | --- |
 # | i | Oběžná perioda $T$ [rok] | 95.6 | 95.6 |
-# | ii | Vzdálenost od pozorovatele $d$ [pc] | 5.3 | 5.3 |
+# | ii | Vzdálenost od pozorovatele $d$ [pc] | 5.33 | 5.33 |
 # | iii | Absolutní magnituda $M$ | 5.27 | 6.67 |
 # | iv | Hmotnost $m$ [m Slunce] | 0.89 | 0.62 |
 # 
